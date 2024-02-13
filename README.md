@@ -5,23 +5,6 @@ I'm a Senior Software Developer and Full-stack Developer with a passion for inte
 
 📍 **Location:** Monterrey, Nuevo Leon
 
-## 💼 Professional Experience
-
-### Senior Software Developer at Arkusnexus (Feb 2024 - Present)
-- Led the proposal and architecture of machine learning integration solutions, fostering collaboration between development teams and ML specialists.
-- Optimized model performance and leveraged AWS services for efficient data processing, halving training times and costs.
-- Engineered machine learning/deep learning infrastructures with custom algorithms using Amazon SageMaker, enhancing model accuracy and operational efficiency.
-- Implemented decoupled microservices using AWS services, improving system flexibility and scalability.
-- Introduced Github Actions to streamline processes, saving significant time and resources.
-d
-### Full Stack Engineer at MACAVE (Apr 2021 - Oct 2022)
-- Developed robust RESTful APIs with a focus on security and scalability.
-- Led teams to success by fostering a collaborative environment and effective communication.
-- Enhanced user experience by migrating CMS platforms to ReactJS, achieving significant user reach through SEO and Google Analytics.
-
-### Django/Django Rest Framework Instructor at Instituto Politécnico Nacional (Jan 2020 - Oct 2022)
-- Led the learning of students in software development using Django, focusing on OOP, HTTP methods, status codes, Docker, and unit testing.
-
 ## 🛠 Skills
 - **Languages & Frameworks:** Django, React.js, AWS, Machine Learning, Deep Learning
 - **Tools & Technologies:** Amazon SageMaker, IAM, RDS, SNS, SES, Lambdas, Github Actions
